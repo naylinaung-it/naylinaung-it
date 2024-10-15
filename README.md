@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naylinaung-it&label=Profile%20views&color=0e75b6&style=flat" alt="naylinaung-it" /> </p>
 
-- 🔭 I’m currently working on [JWA](https://member-dev.jwalking.jp/members/sign_in)
+- 🔭 I’m currently working on Myanmar ISTD
 
 - 🌱 I’m currently learning **Cloud Practitioner**
 
